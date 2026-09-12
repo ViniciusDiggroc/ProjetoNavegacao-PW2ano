@@ -1,5 +1,5 @@
 # 📚 Projeto Navegação - PW 2DS
 
-##Integrantes
+##  Integrantes
  - Vinicius Diggroc
  - Rafael Piffer
